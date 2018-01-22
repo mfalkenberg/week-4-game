@@ -1,7 +1,3 @@
-h1 {
-	color: red;
-}
-
 #crystal1 {
 	width: 100px;
 	height: 100px;
@@ -17,5 +13,9 @@ h1 {
 #crystal4 {
 	width: 100px;
 	height: 100px;
+}
+body {
+	background-image: url("../images/concrete_seamless.png");
+	font-family: 'Indie Flower', cursive;
 }
 
